@@ -1,4 +1,4 @@
-![nostalgic blue skies](blueskies.jpeg)
+![wow cool art yes yes](blocktiles.png)
 ## i'm a beginner programmer and aspiring software engineer :-D
 
 ### my projects may not look like much now, but I swear I'm gonna eventually lock in and code Minecraft 2 in Assembly :D
@@ -9,5 +9,4 @@ i know a little bit of these languages:
 
 and i'm learning some of these:
 - Ruby
-- C
-- GML
+- C (mostly this)
