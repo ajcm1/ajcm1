@@ -10,3 +10,5 @@ i know a little bit of these languages:
 and i'm learning some of these:
 - Ruby
 - C (mostly this)
+
+### I have a dream to one day write a custom OS for the Razzberry Pi. stay tuned i guess lmao
