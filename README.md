@@ -1,4 +1,4 @@
-![wow cool art yes yes](blocktiles.png)
+![wow cool rainbow yes yes](banner.jpeg)
 ## i'm a beginner programmer and aspiring software engineer :-D
 
 ### my projects may not look like much now, but I swear I'm gonna eventually lock in and code Minecraft 2 in Assembly :D
