@@ -4,7 +4,7 @@
 
 i use these tools:
 - VSCode
-- MSYS2
+- MSYS2 (at least until I get a Mac or switch to Linux)
 - Love2D
 - RPG Maker MZ
 - GitHub Copilot (exclusively for learning and code review.)
