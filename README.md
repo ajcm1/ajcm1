@@ -4,7 +4,6 @@
 
 i use these tools:
 - VSCode
-- MSYS2 (at least until I get a Mac or switch to Linux)
 - Love2D
 - RPG Maker MZ
 - GitHub Copilot (exclusively for learning and code review.)
@@ -16,3 +15,4 @@ i know a little bit of these languages:
 and i'm learning some of these:
 - Ruby
 - C (mostly this)
+- C++
